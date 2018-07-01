@@ -3,7 +3,7 @@ import re
 import urllib.request
 from json import loads
 from urllib import parse
-from bs4 import BeautifulSoup
+
 
 import requests
 from tqdm import tqdm
