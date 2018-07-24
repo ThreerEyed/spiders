@@ -27,7 +27,7 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
+            <state relative-caret-position="567">
               <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#193#256#0" expanded="true" />
@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sql.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sql.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/sql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
+            <state relative-caret-position="1134">
               <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
               <folding>
                 <element signature="e#1#15#0" expanded="true" />
@@ -56,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dingdian.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dingdian.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider_dingdian/spiders/dingdian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="-832">
               <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -104,14 +104,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="130" />
     <option name="y" value="41" />
     <option name="width" value="985" />
     <option name="height" value="655" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -124,38 +124,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="spider_dingdian" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_dingdian" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_dingdian" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-              <item name="mysqlpipelines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_dingdian" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_dingdian" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -218,7 +187,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -434,6 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2619">
           <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -463,6 +433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
           <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -502,6 +473,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
           <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,6 +516,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1809">
           <caret line="67" column="22" lean-forward="false" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,6 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="996">
           <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -674,9 +648,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/sql.py">
+    <entry file="file://$PROJECT_DIR$/spider_dingdian/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_dingdian/spiders/dingdian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#193#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
           <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
           <folding>
             <element signature="e#1#15#0" expanded="true" />
@@ -688,34 +690,6 @@
             <marker date="1531042043314" expanded="true" signature="1187:1348" ph="insert into content... " />
             <marker date="1531042043314" expanded="true" signature="1671:1733" ph="select exist... " />
             <marker date="1531042043314" expanded="true" signature="1685:1732" ph="select 1 fro... content" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_dingdian/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_dingdian/mysqlpipelines/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#193#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_dingdian/spiders/dingdian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
